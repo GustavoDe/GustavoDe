@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! My name is Gustavo Lisboa</h1>
 
-<li>I’m 17 years. Old and I’m studying to be a front-ent developer. </li>
+<li>I’m 19 years. Old and I’m studying to be a front-ent developer. </li>
 <li>I’m Brazilian, and i live in São Paulo-SP.</li>
 <li>I’m interested in front-end jobs to put my knowledge into practice.</li>
 <h3 align="left">Languages and Tools:</h3>
